@@ -15,7 +15,7 @@ REGOLE
 
  I datatypes in JS sono:
  - number = si tratta di numeri, i numeri possono essere di tipo interi (semplici numeri come 1, 2, 3) oppure decimali (numeri con la virgola) anche detti float;
- - string = anche dette stringhe, rappresentano una parola o un insieme di parole (frase) e quindi sono composte da lettere;
+ - string = anche dette stringhe, rappresentano una parola o un insieme di parole (frase) e quindi sono composte da lettere, il valore dev'essere contenuto tra le virgolette "";
  - bool = ovvero i valori booleani, che si basano su una doppia condizione - vero (true) o falso (false);
  - null = si tratta di una keyword atta ad indicare un'assenza di valore di tipo 'intenzionale';
  - undefined = si tratta invece di un valore non ancora specificato e che sarà assegnato successivamente.
