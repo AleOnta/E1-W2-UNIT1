@@ -92,4 +92,4 @@ let name_1 = "john";
 let name_2 = "John";
 
 console.log(name_1 === name_2); // oppure console.log(name_1 !== name_2)
-console.log(name_1.toLowerCase() === name_2.toLowerCase());
+console.log(name_1.toLowerCase() === name_2.toLowerCase()); // oppure console.log(name_1.toLowerCase() !== name_2.toLowerCase())
