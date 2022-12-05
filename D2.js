@@ -44,7 +44,7 @@ console.log(name);
 let number_1 = 12;
 let number_2 = 20;
 
-console.log(number_1 + number_2);
+console.log("La somma è: " + number_1 + number_2);
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
@@ -79,7 +79,7 @@ Una volta dichiarata e assegnata una costante, il suo valore non cambierà mai.
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-console.log("il risultato è: " + 4 - x);
+console.log("il risultato è: " + (4 - x));
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
