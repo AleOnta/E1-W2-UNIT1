@@ -65,7 +65,7 @@ name = "Ontani";
 console.log(name);
 
 const cognome = "Ontani";
-cognome = "WebDeveloper";
+//cognome = "WebDeveloper";
 
 /*
 In questa seconda ipotesi, avendo dichiarato il valore come 'const' e quindi come costante, il secondo comando, ovvero la ri-assegnazione della variabile
