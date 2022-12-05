@@ -64,9 +64,14 @@ let x = 12;
 name = "Ontani";
 console.log(name);
 
-/* la Costante 'name' essendo stata definita tramite il costrutto 'const' rappresenta un tipo di valore che non può cambiare nel tempo,
-  a differenza di una generica variabile definita attraverso il costrutto 'let'. 
-*/
+const cognome = "Ontani";
+cognome = "WebDeveloper";
+
+/*
+In questa seconda ipotesi, avendo dichiarato il valore come 'const' e quindi come costante, il secondo comando, ovvero la ri-assegnazione della variabile
+risulta essere inutile / nullo. 
+Una volta dichiarata e assegnata una costante, il suo valore non cambierà mai. 
+ */
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
