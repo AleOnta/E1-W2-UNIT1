@@ -66,12 +66,8 @@ console.log(name);
 
 const cognome = "Ontani";
 //cognome = "WebDeveloper";
-
-/*
-In questa seconda ipotesi, avendo dichiarato il valore come 'const' e quindi come costante, il secondo comando, ovvero la ri-assegnazione della variabile
-risulta essere inutile / nullo. 
-Una volta dichiarata e assegnata una costante, il suo valore non cambierà mai. 
- */
+// nel caso riportato qui sopra, attraverso la riga 68, andrei a tentare di ri-assegnare alla costante "cognome" un nuovo valore; ma essendo per l'appunto una costante,
+// il risultato si tradurrebbe in un errore dovuto all'impossibilità di assegnare un nuovo valore ad una costante (const)
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
